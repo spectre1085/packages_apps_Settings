@@ -62,8 +62,8 @@
     <string name="sdcard_setting" product="nosdcard" msgid="6071836464978826249">"USB bellek"</string>
     <string name="sdcard_setting" product="default" msgid="3713462184783824923">"SD kart"</string>
     <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
-    <string name="bluetooth_is_discoverable" msgid="4798961627677790935">"Ykndki tüm Bluetooth chzlr trfndan görlblir (<xliff:g id="DISCOVERABLE_TIME_PERIOD">%1$s</xliff:g>)"</string>
-    <string name="bluetooth_is_discoverable_always" msgid="8122823110652921674">"Yakındki tüm Bluetooth cihazlrı trfndan görüleblir"</string>
+    <string name="bluetooth_is_discoverable" msgid="4798961627677790935">"Yakındaki tüm Bluetooth cihazlar tarafından görülebilir (<xliff:g id="DISCOVERABLE_TIME_PERIOD">%1$s</xliff:g>)"</string>
+    <string name="bluetooth_is_discoverable_always" msgid="8122823110652921674">"Yakındaki tüm Bluetooth cihazları tarafından görüleblir"</string>
     <string name="bluetooth_not_visible_to_other_devices" msgid="6181960579190879601">"Diğer Bluetooth cihazları tarafından görülemez"</string>
     <string name="bluetooth_only_visible_to_paired_devices" msgid="3574936359739213455">"Sadece eşlenen cihazlar tarafından görülebilir"</string>
     <string name="bluetooth_visibility_timeout" msgid="7611781967900196353">"Görünürlük zaman aşımı"</string>
@@ -2822,7 +2822,7 @@
     <string name="battery_desc_users" msgid="1959428568888686847">"Kullanıcı tarafından harcanan pil miktarı"</string>
     <string name="battery_desc_unaccounted" msgid="1649497860893660763">"Çeşitli kaynakların güç tüketimi"</string>
     <string name="battery_msg_unaccounted" msgid="5647345548624995064">"Pil kullanımı, güç tüketimini yaklaşık olarak gösterir ve pili harcayan kaynakların hepsini hesaba dahil etmez. Çeşitli kaynaklar adı altında belirtilen değer, hesaplanan yaklaşık güç tüketimi ile pilin gerçek kullanımı arasındaki farktır."</string>
-    <string name="battery_desc_overcounted" msgid="5982079150027267539">"Fazla hesaplanan güç kullanımı"</string>
+    <string name="battery_desc_overcounted" msgid="5982079150027267539">"Fazladan hesaplanan güç kullanımı"</string>
     <string name="mah" msgid="3604527474433227780">"<xliff:g id="NUMBER">%d</xliff:g> mAh"</string>
     <string name="battery_used_for" msgid="6401552215008504483">"<xliff:g id="TIME">^1</xliff:g> kullanıldı"</string>
     <string name="battery_active_for" msgid="4416277218863232476">"<xliff:g id="TIME">^1</xliff:g> süreyle aktif"</string>
@@ -2915,7 +2915,7 @@
     <string name="process_stats_os_label" msgid="2096501347732184886">"Android OS"</string>
     <string name="process_stats_os_native" msgid="794547105037548539">"Yerel"</string>
     <string name="process_stats_os_kernel" msgid="5626269994512354996">"Çekirdek"</string>
-    <string name="process_stats_os_zram" msgid="3067278664868354143">"Z-RAM"</string>
+    <string name="process_stats_os_zram" msgid="3067278664868354143">"Sıkıştırılmış RAM"</string>
     <string name="process_stats_os_cache" msgid="4753163023524305711">"Önbellek"</string>
     <string name="process_stats_ram_use" msgid="5966645638783509937">"Kullanılan RAM"</string>
     <string name="process_stats_bg_ram_use" msgid="3572439697306771461">"Kullanılan RAM (arka plan)"</string>
